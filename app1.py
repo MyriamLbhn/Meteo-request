@@ -3,7 +3,7 @@ import streamlit as st
 import folium
 from streamlit_folium import folium_static
 
-df = pd.read_csv("meteo_top_20_ville_fr.csv")
+df = pd.read_csv("meteo_top_20_villes_fr.csv")
 
 cities = sorted(df["ville"].unique())
 
