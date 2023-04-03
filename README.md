@@ -2,7 +2,7 @@
 
 Ce projet a pour objectif de manipuler des API et de récupérer des données en ligne. En utilisant la librairie Requests, il s'agit d'interagir avec l'API OpenWeatherMap pour récupérer et analyser les données météorologiques des 20 plus grandes villes de France.  
 
-## Détails du projet  
+## Détails du projet 
 
 Dans le notebook __decouverte-request.ipynb__, nous récupérons les informations suivantes pour chaque ville :  
 
